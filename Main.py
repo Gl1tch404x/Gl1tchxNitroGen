@@ -1,3 +1,5 @@
+#Made by Gl1tch : https://github.com/Gl1tch404x
+
 import secrets
 import string
 
@@ -46,3 +48,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
