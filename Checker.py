@@ -1,3 +1,5 @@
+#Made by Gl1tch : https://github.com/Gl1tch404x
+
 import aiohttp
 import asyncio
 
@@ -64,3 +66,4 @@ async def main_async():
 
 if __name__ == "__main__":
     asyncio.run(main_async())
+
